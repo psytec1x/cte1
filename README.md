@@ -2,6 +2,8 @@
 
 Welcome to the `cte1` repository!
 
+Its works on Google Chrome as Webapp.
+
 Its a extension for the "Novation Circuit Tracks". Better say a extension for those Sampletracks from 4 original to other 8 in the app.
 You can load Samples, put these on the pattern and sequencing it. It has Webaudio and Web-Midi and the Origanal Functions from the Circuit Tracks.
 
